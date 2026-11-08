@@ -1,7 +1,6 @@
 # Cricket body size, diet and calling energy (R)
-[data science resubmision.pdf](data%20science%20resubmision.pdf)
 
-A university data science project, analysed in R, on the cricket *Gryllodes sigillatus*. The full report is in this repository: `data_science_resubmision.pdf`.
+A university data science project, analysed in R, on the cricket *Gryllodes sigillatus*. The full report is in this repository: [data science resubmision.pdf](data%20science%20resubmision.pdf).
 
 ## The question
 Do a cricket's size, mass and diet relate to how much energy it uses when producing sound (its calling song)? Calling is how males attract females, so the aim was to see whether body size could help explain calling effort.
