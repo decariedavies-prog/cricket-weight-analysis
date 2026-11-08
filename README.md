@@ -1,6 +1,5 @@
-[data science resubmision.pdf](data%20science%20resubmision.pdf)
-
 # Cricket body size, diet and calling energy (R)
+[data science resubmision.pdf](data%20science%20resubmision.pdf)
 
 A university data science project, analysed in R, on the cricket *Gryllodes sigillatus*. The full report is in this repository: `data_science_resubmision.pdf`.
 
