@@ -1,3 +1,5 @@
+[data science resubmision.pdf](data%20science%20resubmision.pdf)
+
 # Cricket body size, diet and calling energy (R)
 
 A university data science project, analysed in R, on the cricket *Gryllodes sigillatus*. The full report is in this repository: `data_science_resubmision.pdf`.
@@ -26,5 +28,3 @@ Do a cricket's size, mass and diet relate to how much energy it uses when produc
 - Created as part of my BSc Biological Sciences at the University of East Anglia (2023).
 
 Contact: Decarie321@gmail.com
-
-[data science resubmision.pdf](data%20science%20resubmision.pdf)
